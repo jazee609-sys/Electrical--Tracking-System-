@@ -1,0 +1,8 @@
+{
+  "name": "Tamil Nadu Electrical Tracking System",
+  "description": "District-wise electricity grievance reporting and tracking portal for all 38 districts of Tamil Nadu, featuring real-time status tracking, interactive district dashboards, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
